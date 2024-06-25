@@ -42,7 +42,7 @@ contract ErrorHandling {
     value -= amount;
   }
   // Function to transfer funds to another address (example for revert())
-  function transfer(address recipient, uint amount) public {
+  function transfer(uint amount) public {
     if (value < amount) { // Simulates potential error during transfer
       revert("Insufficient funds for transfer"); // Explicitly reverts with message
     }
