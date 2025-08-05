@@ -63,9 +63,9 @@ Once the contract is deployed, you can interact with it and then you can deposit
 Mohd Arshad
 
 
-@MohdArs54582167
+@byte_arshad
 
-https://x.com/MohdArs54582167?t=LLQF6n_B1TiYZBmNg4ZHBA&s=09
+[https://x.com/MohdArs54582167?t=LLQF6n_B1TiYZBmNg4ZHBA&s=09](https://x.com/byte_arshad)
 
 ## License
 
